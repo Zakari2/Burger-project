@@ -1,0 +1,76 @@
+.navbar-home {
+    background-color: #3d8fe4;
+    border-radius: 0;
+    margin-bottom: 0;
+    border:none;
+}
+
+.navbar-home .navbar-nav > li > a {
+    color: white;
+
+}
+
+.navbar-home .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+.carousel-content {
+    height: 650px;
+    margin-bottom:1rem;
+}
+
+.about-burger{
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.burger-types{
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.footer{
+    background-color: #3d8fe4;
+    color: #fff;
+    padding: 1rem;
+}
+
+.one{ 
+        bottom:700px;
+        margin-top: 0;
+        font-size: 20px;
+        background-color: black;
+        background: rgb(0.6,0.6, 0.6, 0.6);
+        // CSS property
+        
+}
+.two{ 
+    bottom: 410px;
+    margin-top: 0;
+    font-size: 20px;
+     background-color: black;
+     background: rgb(0.6,0.6, 0.6, 0.6);
+     // CSS property
+}
+
+.three{ 
+    bottom: 320px;
+    margin-top: 0;
+    font-size: 20px;
+     background-color: black;
+     background: rgb(0.6,0.6, 0.6, 0.6);
+        // CSS property
+}
+
+.font{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.burger-healthy {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.text-title{
+    font-size: 35px;
+}
